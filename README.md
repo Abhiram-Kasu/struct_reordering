@@ -4,6 +4,8 @@ A single-header C++26 library for reflection-based struct reordering.
 The public header is `include/struct_reordering.hpp`, and the CMake target is
 `struct_reordering::struct_reordering`.
 
+Code is [here](https://syrup.abhiram-kasu.workers.dev/r/struct_reordering)
+
 ## Reorder a struct
 
 ```cpp
