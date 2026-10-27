@@ -1,3 +1,9 @@
 /build*/
 /CMakeUserPresets.json
 /compile_commands.json
+
+# Local clangd index and caches
+/.cache/
+
+# macOS metadata
+.DS_Store
